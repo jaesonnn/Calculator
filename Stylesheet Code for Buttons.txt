@@ -11,7 +11,7 @@ QPushButton:pressed {
 }
 
 ----------------------------------------------------------------------------------------------
-(Clear,+/-,%,. buttons) Unary Operations Buttons Stylesheet:
+(Clear,+/-,%,. buttons) Unary Operations Buttons Stylesheet: 
 
 QPushButton {
  	background-color: rgb(215, 215, 215);
