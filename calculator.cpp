@@ -2,7 +2,7 @@
 #include "ui_calculator.h"
 
 double firstNumber;
-bool userIsTypingSecondNumber = false;
+bool userIsTypingSecondNumber = false; 
 
 Calculator::Calculator(QWidget *parent) :
     QMainWindow(parent),
